@@ -1,0 +1,15 @@
+{
+  "name": "testenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "moment": "^2.29.4"
+  }
+}
